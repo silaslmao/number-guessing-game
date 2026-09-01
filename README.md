@@ -1,6 +1,6 @@
 # number-guessing-game
 
-a really simple command game i made to get back into python
+a really simple command line game i made to get back into python
 
 ## how it works
 1. the program generates a number from 1-100.
